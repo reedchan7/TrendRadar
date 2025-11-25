@@ -1,113 +1,119 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
+人工智能
+AI
+Artificial Intelligence
+Machine Learning
+Transformer
+Generative AI
+AIGC
+Agent
+AI Agent
+Agent Framework
+LLM
+NLP
+Natural Language Processing
+RAG
+MCP
+A2A
+AI Memory
+Deep Research
+!gai
+@10
 
 谷歌
 google
 gemini
 deepmind
+AI Studio
+AIStudio
+Nano Banana
+@10
 
-chatgpt
-openai
-sora
+OpenAI
+Sam Altman
+ChatGPT
+GPT-5.1
+GPT-5
+GPT-6
+Sora
+Sora2
+@10
 
-claude
 Anthropic
+Claude
+Claude Code
+Claude 4.5
+Claude 4
+Claude 5
+Sonnet 4.5
+Sonnet 4
+Sonnet 5
+@10
 
-iphone
-ipad
-mac
-ios
+DeepSeek
+梁文锋
+@3
 
-ai
-!gai
-人工智能
+华为
+任正非
+@2
+
+Qwen3
+@2
+
+大疆AI
+@1
+
+智元
+灵犀
+稚晖君
+彭志辉
+@2
+
+字节
+bytedance
+ByteDance AI
+豆包
+@2
+
+月之暗面
+Kimi K2
+@3
+
+特斯拉
+马斯克
+Grok
+@5
+
+微软
+Microsoft
+CrewAI
+@3
+
+英伟达
+NVIDIA
+黄仁勋
+AMD
+@4
+
+Langgraph
+Langchain
+AutoGen
+Vercel AI
+Eino
+@5
 
 自动驾驶
+@1
 
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
+@1
 
 芯片
 光刻机
+@3
 
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+AI创业
+AI应用
+AI创新
+深圳AI
+@5
